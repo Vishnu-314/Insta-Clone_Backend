@@ -9,7 +9,7 @@ const path = require("path")
 
 // const uri = `mongodb+srv://Aravind:Aravind@cluster0.tjbxerd.mongodb.net/?retryWrites=true&w=majority`
 
-const uri=`mongodb+srv://Vishnu7970:Tonystark8978@cluster0.uop2xlo.mongodb.net/?retryWrites=true&w=majority`
+const uri=`mongodb+srv://contact7970:contact7970@cluster0.keqwb7x.mongodb.net/test`
 
 app.use(cors())
 app.use(express.json())
